@@ -1,0 +1,22 @@
+export const users = [
+  { id: '1', firstName: 'Alice', lastName: 'Smith', email: 'alice@example.com', createdAt: new Date('2023-12-03') },
+  { id: '2', firstName: 'Bob', lastName: 'Johnson', email: 'bob@gmail.com', createdAt: new Date('2023-12-03') },
+  { id: '3', firstName: 'Charlie', lastName: 'Williams', email: 'charlie@yahoo.com', createdAt: new Date('2023-12-03') },
+  { id: '4', firstName: 'David', lastName: 'Jones', email: 'david@outlook.com', createdAt: new Date('2023-12-03') },
+  { id: '5', firstName: 'Ethan', lastName: 'Brown', email: 'ethan@icloud.com', createdAt: new Date('2023-12-03') },
+  { id: '6', firstName: 'Frank', lastName: 'Davis', email: 'frank@msn.com', createdAt: new Date('2023-12-03') },
+  { id: '7', firstName: 'George', lastName: 'Miller', email: 'george@aol.com', createdAt: new Date('2023-12-03') },
+  { id: '8', firstName: 'Henry', lastName: 'Wilson', email: 'henry@zoho.com', createdAt: new Date('2023-12-03') },
+  { id: '9', firstName: 'Igor', lastName: 'Moore', email: 'igor@protonmail.com', createdAt: new Date('2023-12-03') },
+  { id: '10', firstName: 'Jack', lastName: 'Taylor', email: 'jack@yandex.com', createdAt: new Date('2023-12-03') },
+  { id: '11', firstName: 'Kevin', lastName: 'Anderson', email: 'kevin@live.com', createdAt: new Date('2023-12-03') },
+  { id: '12', firstName: 'Leo', lastName: 'Thomas', email: 'leo@coolsite.net', createdAt: new Date('2023-12-03') },
+  { id: '13', firstName: 'Max', lastName: 'Jackson', email: 'max@myspace.org', createdAt: new Date('2023-12-03') },
+  { id: '14', firstName: 'Norm', lastName: 'White', email: 'norm@custom.io', createdAt: new Date('2023-12-03') },
+  { id: '15', firstName: 'Oscar', lastName: 'Harris', email: 'oscar@random.co', createdAt: new Date('2023-12-03') },
+  { id: '16', firstName: 'Phil', lastName: 'Martin', email: 'phil@prosite.com', createdAt: new Date('2023-12-03') },
+  { id: '17', firstName: 'Quincy', lastName: 'Thompson', email: 'quincy@exotic.biz', createdAt: new Date('2023-12-03') },
+  { id: '18', firstName: 'Roger', lastName: 'Garcia', email: 'roger@personal.me', createdAt: new Date('2023-12-03') },
+  { id: '19', firstName: 'Steve', lastName: 'Martinez', email: 'steve@space.xyz', createdAt: new Date('2023-12-03') },
+  { id: '20', firstName: 'Tom', lastName: 'Robinson', email: 'tom@works.club', createdAt: new Date('2023-12-03') }
+];
